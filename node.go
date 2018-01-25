@@ -1,7 +1,7 @@
 package storm
 
 import (
-	"github.com/asdine/storm/codec"
+	"github.com/covrom/storm/codec"
 	"github.com/coreos/bbolt"
 )
 

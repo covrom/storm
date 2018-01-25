@@ -7,9 +7,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/asdine/storm"
-	"github.com/asdine/storm/codec/gob"
-	"github.com/asdine/storm/index"
+	"github.com/covrom/storm"
+	"github.com/covrom/storm/codec/gob"
+	"github.com/covrom/storm/index"
 	"github.com/coreos/bbolt"
 	"github.com/stretchr/testify/require"
 )

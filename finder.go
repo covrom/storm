@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/asdine/storm/index"
-	"github.com/asdine/storm/q"
+	"github.com/covrom/storm/index"
+	"github.com/covrom/storm/q"
 	"github.com/coreos/bbolt"
 )
 

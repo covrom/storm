@@ -3,8 +3,8 @@ package storm
 import (
 	"os"
 
-	"github.com/asdine/storm/codec"
-	"github.com/asdine/storm/index"
+	"github.com/covrom/storm/codec"
+	"github.com/covrom/storm/index"
 	"github.com/coreos/bbolt"
 )
 

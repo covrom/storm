@@ -5,8 +5,8 @@ import (
 	"encoding/binary"
 	"time"
 
-	"github.com/asdine/storm/codec"
-	"github.com/asdine/storm/codec/json"
+	"github.com/covrom/storm/codec"
+	"github.com/covrom/storm/codec/json"
 	"github.com/coreos/bbolt"
 )
 

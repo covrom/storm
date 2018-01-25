@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/asdine/storm/codec/gob"
-	"github.com/asdine/storm/codec/json"
+	"github.com/covrom/storm/codec/gob"
+	"github.com/covrom/storm/codec/json"
 	"github.com/coreos/bbolt"
 	"github.com/stretchr/testify/require"
 )

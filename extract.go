@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/asdine/storm/index"
+	"github.com/covrom/storm/index"
 	"github.com/coreos/bbolt"
 )
 

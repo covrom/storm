@@ -9,8 +9,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/asdine/storm"
-	"github.com/asdine/storm/codec/gob"
+	"github.com/covrom/storm"
+	"github.com/covrom/storm/codec/gob"
 	"github.com/coreos/bbolt"
 )
 

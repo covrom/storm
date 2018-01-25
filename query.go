@@ -1,8 +1,8 @@
 package storm
 
 import (
-	"github.com/asdine/storm/internal"
-	"github.com/asdine/storm/q"
+	"github.com/covrom/storm/internal"
+	"github.com/covrom/storm/q"
 	"github.com/coreos/bbolt"
 )
 

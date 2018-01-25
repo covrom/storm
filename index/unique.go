@@ -3,7 +3,7 @@ package index
 import (
 	"bytes"
 
-	"github.com/asdine/storm/internal"
+	"github.com/covrom/storm/internal"
 	"github.com/coreos/bbolt"
 )
 
